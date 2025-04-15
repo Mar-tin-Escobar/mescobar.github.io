@@ -9,11 +9,10 @@ layout: homepage
 
 # Martin Escobar
 
-I am an M.A. in Economics candidate at [Universidad Torcuato di Tella](https://www.utdt.edu/). I received my Bachelor in Economics from [Universidad Nacional de Córdoba](https://www.eco.unc.edu.ar/).
+I am an M.A. in Economics candidate at [Universidad Torcuato di Tella](https://www.utdt.edu/). I received my Bachelor in Economics the same university.
 
-**Research interests:** Macroeconomics, Macro-Finance
 
-I have working experience at a finance firm ([Grupo del Plata](https://www.gdelplata.com/)) as a research analyst and [teaching experience](/teaching) both at UNC and UTDT.
+I have working experience at ([CEPE DiTella](https://www.utdt.edu/listado_contenidos.php?id_item_menu=25278)) as a research assistant and [teaching experience](/teaching) at UTDT.
 
 
 <!-- {{< cards cols="5" >}} -->

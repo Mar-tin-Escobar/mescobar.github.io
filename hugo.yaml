@@ -23,9 +23,9 @@ menu:
     - name: Projects
       pageRef: /projects
       weight: 1
-    - name: Research
-      pageRef: /research
-      weight: 2
+    # - name: Research
+    #   pageRef: /research
+    #   weight: 2
     - name: Teaching
       pageRef: /teaching
       weight: 3   
@@ -33,8 +33,8 @@ menu:
       pageRef: /cv
       weight: 4
     # - name: Contact # ↗
-    #   url: "mailto:mgleser@mail.utdt.edu"
-      # url: "https://github.com/matiasgleser"
+    #   url: "mailto:martinescobar1475@gmail.com"
+      # url: "https://github.com/escomartin"
       # weight: 5
     - name: Search
       weight: 6
@@ -42,7 +42,7 @@ menu:
         type: search
     - name: GitHub
       weight: 7
-      url: "https://github.com/matiasgleser"
+      url: "https://github.com/escomartin"
       params:
         icon: github
     - name: Twitter
@@ -52,12 +52,12 @@ menu:
         icon: x-twitter
     - name: LinkedIn
       weight: 9
-      url: "https://twitter.com/MatiasGleser"
+      url: "https://www.linkedin.com/in/martin-escobar3141/"
       params:
         icon: linkedin
     - name: Email
       weight: 10
-      url: "mailto:mgleser@mail.utdt.edu"
+      url: "mailto:martinescobar1475@gmail.com"
       params:
         icon: inbox
 
