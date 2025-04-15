@@ -1,6 +1,6 @@
 # Hugo configuration file
-title: Matias Gleser
-baseURL: "https://matiasgleser.github.io/"
+title: Martin Escobar
+baseURL: "https://mescobar.github.io/"
 
 
 # import hextra as module
@@ -47,7 +47,7 @@ menu:
         icon: github
     - name: Twitter
       weight: 8
-      url: "https://twitter.com/MatiasGleser"
+      url: "https://twitter.com/MartinEscobar"
       params:
         icon: x-twitter
     - name: LinkedIn
